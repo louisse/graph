@@ -1,8 +1,7 @@
 
 <script
-  src="http://code.jquery.com/jquery-3.3.1.js"
-  integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
-  crossorigin="anonymous"></script>
+  src="js/jquery-3.3.1.js"
+></script>
 
 
 <!DOCTYPE HTML>
@@ -104,7 +103,7 @@ $(document).ready(function () {
 <div id="chartContainerSound" style="height: 370px; width: 100%;"></div>
 
 
-<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+<script src="js/canvasjs.min.js"></script>
 
 
 
